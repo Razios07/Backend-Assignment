@@ -1,7 +1,8 @@
 # Prioritized Async Task Processing System
 ### Built with Python · Flask · Celery · Redis · SQLite
 
-
+# Install the required packages
+pip install -r requirements.txt
 
 ## 🧠 Architecture (Simple Explanation)
 
